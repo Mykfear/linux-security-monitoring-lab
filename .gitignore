@@ -1,6 +1,12 @@
 # Real security logs
 logs/*.log
 
+# Generated security alerts
+alerts/*.log
+
+# Backup scripts
+scripts/*_backup.sh
+
 # Temporary files
 *.tmp
 *.swp
