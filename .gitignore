@@ -1,0 +1,6 @@
+# Real security logs
+logs/*.log
+
+# Temporary files
+*.tmp
+*.swp
